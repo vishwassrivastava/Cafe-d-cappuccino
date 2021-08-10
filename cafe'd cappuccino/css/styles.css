@@ -1,0 +1,276 @@
+#title
+{
+  background-color: #ff4c68;
+}
+
+.container-fluid
+{
+  padding: 3% 10%;
+}
+
+
+
+.cap1
+{
+  height: 6rem;
+  width: 20rem;
+margin-top:2rem;
+  border-radius: 25%;
+}
+.btn1
+{
+  margin:1rem;
+}
+
+.nav-item
+{
+  font-family: "Montserrat-light";
+  font-size: 1.2rem;
+}
+.navbar-brand
+{
+  font-size: 1.5rem;
+}
+
+
+.lady
+{
+  height: 7rem;
+  width: 2rem;
+  border-radius: 100%;
+  text-align: center;
+}
+.reviewfont
+{
+  font-size:1.5rem;
+}
+
+
+
+
+.link
+{
+  color: black;
+}
+.color
+{
+  color:white;
+  text-decoration: none;
+
+}
+.f1
+{
+  text-align: left;
+}
+.lc
+{
+  margin-left:  2rem;
+  text-decoration: none;
+
+
+}
+.b1
+{
+  width:8rem;
+  height:3rem;
+  font-size: 1rem;
+
+}
+.white
+{
+  color: white;
+}
+.carousel1
+{
+  text-align: center;
+}
+.lady1
+{
+  text-align: center;
+
+}
+.photo
+{
+  border-radius: 100%;
+  height: 10rem;
+  width: 10rem;
+}
+.font
+{
+  font-size: 1.5rem;
+}
+.dk
+{
+  height: 10rem;
+  width: 10rem;
+  border-radius: 100%;
+  text-align: center;
+}
+.pic
+{
+  text-align: center;
+}
+.carousel-control-prev,.carousel-control-next
+{
+  color:black;
+  font-size: 1.5rem;
+}
+#testimonials
+{
+  background-color: red;
+}
+.box
+{
+  height: 50rem;
+}
+
+
+.c1,.c2,.c3
+{
+
+  padding-left: 2rem;
+  padding-bottom: 4rem;
+}
+.special
+{
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  text-align: center;
+
+}
+.oreo
+{
+  height: 15rem;
+}
+.fixed
+{
+  position: fixed;
+}
+.nav1
+{
+  margin-bottom: 2rem;
+}
+.quote
+{
+  font-size: 1.3rem;
+}
+.footer
+{
+  background-color:#ff4c68;
+  padding-left: 15%;
+  padding-top: 2%;
+  padding-bottom: 1%;
+}
+.footer1
+{
+  text-align: center;
+
+}
+.fa {
+  padding: 15px;
+
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+  opacity: 0.7;
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+  margin: 0.5rem;
+  border-radius: 25%;
+}
+
+/* Twitter */
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+  margin-right: 0.5rem;
+  border-radius: 25%;
+}
+.fa-youtube
+{
+  background: #c4302b;
+  color: white;
+  border-radius: 25%;
+  margin-right: 0.5rem;
+
+}
+.fa-linkedin
+{
+border-radius: 25%;
+background:#0077b5;
+color: white;
+margin-right: 0.5rem;
+}
+.fa-google
+{
+  background: #c4302b;
+  color: white;
+  border-radius: 25%;
+  margin-right: 0.5rem;
+
+}
+.title
+{
+  position: fixed;
+}
+.nav:hover
+{
+  text-decoration: underline;
+}
+.home-underline,.about-underline,.menu-underline,.contact-underline
+{
+  text-decoration: underline;
+
+}
+.table
+{
+  padding-top: 15%;
+}
+.card
+{
+  width: 23rem;
+}
+.card-upper
+{
+  background-color: #64C9CF;
+}
+.card-title
+{
+  padding-left: 1rem;
+  padding-top: 0.5rem;
+}
+.board
+{
+  padding-top: 5%;
+}
+.his1
+{
+  padding-top: 1rem;
+}
+.border
+{
+  border-radius: 10px;
+  border-width: 7rem;
+}
+.menuimgsize
+{
+  height: 10rem;
+  width: 10rem;
+  padding-top:1rem;
+  padding-left: 1rem;
+  padding-bottom: 1rem;
+}
+.home
+{
+  color: white;
+}
